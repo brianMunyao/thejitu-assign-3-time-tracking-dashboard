@@ -24,8 +24,8 @@ main {
 		'user-container work play study'
 		'user-container exercise social self-care';
 	grid-auto-columns: 215px;
-	height: 400px;
-	gap: 25px;
+	height: 380px;
+	gap: 20px;
 }
 
 .user-container {
